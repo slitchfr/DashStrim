@@ -1,0 +1,6 @@
+{
+  "name": "Strimy",
+  "description": "Extremely modern marketing dashboard transforming customer feedback into high-converting social media posts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
